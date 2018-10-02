@@ -12,4 +12,4 @@ sudo usermod -aG docker ${USER}
 
 #configure docker
 
-echo "hello world1" >/tmp/test
+echo "hello world" >/tmp/test1
