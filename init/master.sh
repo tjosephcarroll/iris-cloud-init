@@ -1,0 +1,1 @@
+#runs the scripts in master directory in order. 
